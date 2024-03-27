@@ -1,11 +1,17 @@
 h1, footer {
     text-align: center;
 }
+
 body {
     background-color:antiquewhite;
     font-family: 'Courier New', Courier, monospace;
     font-size: 110%;
 }
+
+h1 {
+    font-family: Impact;
+}
+
 h2 {
     color: brown;
 }
